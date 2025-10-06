@@ -7,10 +7,11 @@ var moveZeroes = function(nums) {
 
     for (let right = 0; right < nums.length; right++) {
         if (nums[right] !== 0) {
-            [nums[right], nums[left]] = [nums[left], nums[right]];
+            nums[left]=nums[right];
             left++;
         }
     }
-
-    return nums;    
+  for (let right = left; right < nums.length; right++) {
+        nums[right] = 0;
+    }
 };
