@@ -3,15 +3,14 @@
  * @return {number}
  */
 var fib = function(n) {
-    if(n===0)
-        return 0;
-    if(n===1)
-        return 1;
-    let f1=0,f2=1,f3;
-    for(let i=2;i<=n;i++){
-        f3=f1+f2;
-        f1=f2;
-        f2=f3;
+    const array = [0, 1];
+    if (n < 2) {
+        return n;
     }
-    return f3;
+
+    for (var i = 2; i <= n; i++) {
+        array.push(array[i-2] + array[i-1]); 
+    }
+
+    return array[n]
 };
