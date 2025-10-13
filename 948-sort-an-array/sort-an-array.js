@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
+
 var sortArray = function(nums) {
     mergeSort(nums, 0, nums.length - 1);
     return nums;
@@ -48,4 +49,3 @@ function merge(nums, left, mid, right) {
         nums[k++] = rightArray[j++];
     }
 }
-
