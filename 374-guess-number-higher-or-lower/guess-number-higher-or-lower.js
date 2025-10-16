@@ -17,7 +17,7 @@ var guessNumber = function(n) {
         let mid=Math.floor((start+end)/2)
         let res=guess(mid)
         if(res===0)return mid;
-        if(res==-1)
+        else if(res==-1)
             end=mid-1
         else
             start=mid+1
