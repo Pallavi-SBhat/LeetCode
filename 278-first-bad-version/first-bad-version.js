@@ -24,10 +24,12 @@ var solution = function(isBadVersion) {
         while (first < last) {
             let mid = first + Math.floor((last - first) / 2);
             let res=isBadVersion(mid)
-            if (res) 
+            if (res) {
                 last = mid;
-            else 
+            }
+            else {
                 first = mid + 1;
+            }
         }
         return first
     };
