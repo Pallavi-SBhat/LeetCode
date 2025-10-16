@@ -12,16 +12,14 @@
  * @return {number}
  */
 var guessNumber = function(n) {
-    var binarySearch = function(start, end){
-        const middle = (start + end) / 2 | 0;
-
-        if(guess(middle) === 0)
-            return middle;
-        else if(guess(middle) === 1)
-            return binarySearch(middle + 1, end);
+    let start=1,end=n;
+    while(start<=end){
+        let mid=Math.floor((start+end)/2)
+        let res=guess(mid)
+        if(res===0)return mid;
+        if(res==-1)
+            end=mid-1
         else
-            return binarySearch(start, middle - 1);
+            start=mid+1
     }
-
-    return binarySearch(1, n);
 };
