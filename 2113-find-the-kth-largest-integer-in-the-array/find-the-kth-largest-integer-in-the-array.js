@@ -4,6 +4,19 @@
  * @return {string}
  */
 var kthLargestNumber = function(nums, k) {
-    nums.sort((a,b)=>BigInt(a)<BigInt(b)? 1: BigInt(a)>BigInt(b)? -1:0);
-    return nums[k-1]
+     k = nums.length-k;
+     nums.sort((a,b)=>{
+         var n1 = BigInt(a);
+         var n2 = BigInt(b);
+         if(n1>n2)
+         {
+            return 1;
+         }
+         else if(n1<n2)
+         {
+            return -1;
+         }
+         return 0;
+     });
+    return nums[k];
 };
