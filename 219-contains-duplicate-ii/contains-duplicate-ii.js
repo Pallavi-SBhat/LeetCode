@@ -9,10 +9,18 @@
  * @return {boolean}
  */
 var containsNearbyDuplicate = function(nums, k) {
-    for (let i = 0; i < nums.length; i++) {
-        for (let j = i + 1; j <= i + k && j < nums.length; j++) {
-            if (nums[i] === nums[j]) return true;
+     let set = new Set()
+    let left = 0
+
+    for (i = 0; i < nums.length; i++) {
+        if (i > k) {
+            set.delete(nums[i-k-1])
         }
-    }
-    return false;
+        if (set.has(nums[i])) {
+            return true
+        }
+
+        set.add(nums[i])
+    };
+    return false
 };
