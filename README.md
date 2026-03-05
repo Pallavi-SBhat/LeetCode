@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
