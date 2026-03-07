@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0292-nim-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0292-nim-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
