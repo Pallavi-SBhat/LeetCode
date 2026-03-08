@@ -14,18 +14,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
