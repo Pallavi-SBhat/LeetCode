@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -91,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
