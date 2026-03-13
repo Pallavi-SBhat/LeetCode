@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
