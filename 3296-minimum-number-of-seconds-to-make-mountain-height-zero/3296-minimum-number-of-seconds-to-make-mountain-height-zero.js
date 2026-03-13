@@ -3,31 +3,42 @@
  * @param {number[]} workerTimes
  * @return {number}
  */
+var minNumberOfSeconds = function(mountainHeight, workerTimes) {
+    
+    const H = mountainHeight;
+    const w0 = workerTimes[0];
 
-var minNumberOfSeconds = function (mountainHeight, workerTimes) {
+    if (workerTimes.length === 1) {
+        return w0 * (H * (H + 1) / 2);
+    }
+    
+    workerTimes.sort((a,b)=>a-b);
 
-    const pq = new MinPriorityQueue((x) => x[0]);
+    // Upper bound: smallest worker does all work
+    let left = 0;
+    let right = w0 * (H * (H + 1) / 2); // <= 5e15, safe in Number
 
-    for (let workerTime of workerTimes) {
-        let nextFinishTime = workerTime;
-        pq.push([nextFinishTime, workerTime, 1]);
+    function canFinish(T) {
+        let total = 0;
+
+        for (let w of workerTimes) {
+            const val = 1 + 8 * T / w;
+            if (val < 1) break;
+
+            const x = Math.floor((Math.sqrt(val) - 1) / 2);
+            if (x <= 0) break;
+
+            total += x;
+            if (total >= H) return true;
+        }
+        return total >= H;
     }
 
-    for (let i = 0; i < mountainHeight; i++) {
-
-        let [nextFinishTime, workerTime, timesDone] = pq.pop();
-
-        timesDone += 1;
-        nextFinishTime += workerTime * timesDone;
-
-        pq.push([nextFinishTime, workerTime, timesDone]);
+    while (left < right) {
+        const mid = Math.floor((left + right) / 2);
+        if (canFinish(mid)) right = mid;
+        else left = mid + 1;
     }
 
-    let res = 0;
-
-    for (let [nextFinishTime, workerTime, timesDone] of pq) {
-        res = Math.max(res, nextFinishTime - workerTime * timesDone);
-    }
-
-    return res;
+    return left;
 };
