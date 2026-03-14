@@ -4,28 +4,46 @@
  * @return {string}
  */
 var getHappyString = function(n, k) {
-       let result = [];
-    
-    function backtrack(str){
-        
-        if(str.length === n){
-            result.push(str);
-            return;
-        }
-        
-        for(let ch of ['a','b','c']){
-            
-            if(str.length > 0 && str[str.length-1] === ch){
-                continue;
-            }
-            
-            backtrack(str + ch);
+          var counter = 0;
+    for(var i = 0; i < n; i++){
+        if(i === 0){
+            counter = 3;
+        } else {
+            counter *= 2;
         }
     }
-    
-    backtrack("");
-    
-    if(k > result.length) return "";
-    
-    return result[k-1];
+    if(k > counter){
+        return "";
+    }
+    var selected = "";
+    var depth = 0;
+    var allowedAfter = {a: ["b", "c"], b: ["a", "c"], c: ["a", "b"]};
+    var lastLetter = "";
+    var kRemaining = k;
+    for(i = 1; i <= n; i++){
+        var blockSize = Math.pow(2, n - i);
+        if(i === 1){
+            if(k <= blockSize){
+                lastLetter = "a";
+            } else if (k <= blockSize * 2) {
+                lastLetter = "b";
+                kRemaining -= blockSize;
+            } else {
+                lastLetter = "c";
+                kRemaining -= (blockSize * 2);
+            }
+            selected += lastLetter;
+        } else {
+            var allowedOnes = allowedAfter[lastLetter];
+            if(kRemaining <= blockSize){
+                lastLetter = allowedOnes[0];
+            } else {
+                lastLetter = allowedOnes[1];
+                kRemaining -= blockSize;
+            }
+            selected += lastLetter;
+        }
+    }
+    return selected;
+
 };
