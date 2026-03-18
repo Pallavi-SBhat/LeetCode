@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0342-power-of-four/) | Easy |
