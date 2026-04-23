@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
