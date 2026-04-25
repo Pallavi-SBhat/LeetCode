@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0338-counting-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0338-counting-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0342-power-of-four/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
