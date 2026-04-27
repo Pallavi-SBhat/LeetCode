@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Brainteaser
@@ -165,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
