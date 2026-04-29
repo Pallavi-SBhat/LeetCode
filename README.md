@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
