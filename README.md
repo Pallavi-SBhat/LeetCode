@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
