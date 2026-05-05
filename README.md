@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0796-rotate-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 <!---LeetCode Topics End-->
