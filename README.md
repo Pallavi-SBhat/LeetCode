@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
