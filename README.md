@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3660-jump-game-ix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -210,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
