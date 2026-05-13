@@ -11,24 +11,28 @@
  * @return {ListNode}
  */
 var rotateRight = function(head, k) {
-     if (!head || !head.next || k == 0) return head;
+    if(head == null) return head;
 
-    let len = 1;
-    let tail = head;
-    while (tail.next) {
-        tail = tail.next
-        len++;
+    let tail = head , size = 1;
+    while( tail != null && tail.next != null ){
+         size++;
+         tail = tail.next;
+    }
+    // Make LL Circular 
+    if(tail != null)
+    tail.next = head;
+    k = k % size; // make k in range of size
+    let move = size - k;
+    // Move tail by 
+    while( move != 0){
+         tail = tail.next;
+         move--;
     }
 
-    k = k % len
-    if (k == 0)
-        return head;
-
-    tail.next = head;
-    for (let i = 0; i < len - k; i++)
-        tail = tail.next;
-
+    // new head will be at next of tail
     head = tail.next;
-    tail.next = null
-    return head;
+
+    // now, break Circular LL
+    tail.next = null;
+    return head;  
 };
