@@ -1,22 +1,20 @@
 /**
  * @param {number} n
  * @return {boolean}
- */
- const squares = {'0':0, '1':1, '2':4, '3':9, '4':16, '5':25, '6':36, '7':49, '8':64, '9':81}
+ */  
 
 var isHappy = function(n) {
-        if (n < 1) return false;
-let set = new Set();
-	
-    while (!set.has(n)) {
-        set.add(n);
-        let s = n.toString();
-        n = 0;
-        for (let i = 0; i < s.length; ++i) {
-            n += squares[s[i]];
-        }
-        if (n == 1) return true;
-    }
-	
-    return false;
+       let set= new Set();
+       while(true){
+        let sum=0;
+       while(n>0){
+            let dig=n%10;
+            sum+=dig*dig;
+            n=Math.floor(n/10);
+       } 
+       if(sum==1) return true;
+       if(set.has(sum)) return false;
+       set.add(sum);
+       n=sum;
+       }
 };
