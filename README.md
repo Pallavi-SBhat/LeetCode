@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0867-transpose-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0338-counting-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
