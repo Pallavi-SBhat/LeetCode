@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1861-rotating-the-box](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2325-decode-the-message](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2325-decode-the-message](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
