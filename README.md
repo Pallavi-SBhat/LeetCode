@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
