@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
