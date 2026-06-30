@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
