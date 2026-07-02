@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Pallavi-SBhat/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0788-rotated-digits/) | Medium |
