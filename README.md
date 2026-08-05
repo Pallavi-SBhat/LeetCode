@@ -320,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
