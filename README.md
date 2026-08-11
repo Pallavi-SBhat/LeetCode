@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3660-jump-game-ix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
