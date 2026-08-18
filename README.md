@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3660-jump-game-ix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3731-find-missing-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
