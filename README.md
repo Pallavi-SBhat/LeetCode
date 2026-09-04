@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3731-find-missing-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
