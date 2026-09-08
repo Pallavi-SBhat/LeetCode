@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
