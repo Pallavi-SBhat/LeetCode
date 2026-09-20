@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2325-decode-the-message/) | Easy |
 | [2418-sort-the-people](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
