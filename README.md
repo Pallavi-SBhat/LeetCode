@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search
