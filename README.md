@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0283-move-zeroes/) | Easy |
