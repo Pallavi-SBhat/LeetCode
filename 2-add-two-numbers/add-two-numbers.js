@@ -10,7 +10,8 @@
  * @param {ListNode} l2
  * @return {ListNode}
  */
-const addTwoNumbers = (l1, l2, carry = 0) => {
+const addTwoNumbers = (l1, l2, carry
+ = 0) => {
     if (!l1 && !l2 && carry === 0) return null;
 
     const val1 = l1 ? l1.val : 0;
