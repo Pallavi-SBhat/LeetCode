@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0290-word-pattern](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
