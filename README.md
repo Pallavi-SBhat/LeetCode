@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3660-jump-game-ix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3731-find-missing-elements](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pallavi-SBhat/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
