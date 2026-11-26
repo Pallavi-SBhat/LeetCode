@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Pallavi-SBhat/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pallavi-SBhat/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pallavi-SBhat/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
